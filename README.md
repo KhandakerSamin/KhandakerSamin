@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/khandaker samin yeasar" target="blank"><img src="https://img.shields.io/twitter/follow/khandaker samin yeasar?logo=twitter&style=for-the-badge" alt="khandaker samin yeasar" /></a> </p>
 
-- 🔭 I’m currently working on **Mongodb Database Management**
+- 🔭 I’m currently working on **MERN Stack Web Devolopment**
 
 - 🌱 I’m currently learning **Frontend Web Devolopment**
 
