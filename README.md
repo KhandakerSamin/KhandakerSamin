@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Web Devolopment**
 
-- 🌱 I’m currently learning **Frontend Web Devolopment**
+- 🌱 I’m currently learning **Backend with Express and MongoDb**
 
 - 👨‍💻 All of my projects are available at [khandakersaminyeasar.com](khandakersaminyeasar.com)
 
