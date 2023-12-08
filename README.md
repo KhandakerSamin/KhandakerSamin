@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mirhussainmurtaza/">
-        <img height="75" style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+        <img height="75" style="margin-right: 20px;" src="https://i.postimg.cc/ZqHkMTnZ/do-approved-assets-removebg-preview.png">
     </a>
     <a href="https://www.facebook.com/khandakersaminyeasar">
         <img height="75" style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
@@ -22,7 +22,7 @@
     <a href="https://www.instagram.com/hey_its_samin/">
         <img height="75" style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
     </a>
-    <a href="https://twitter.com/_mir_hussain_">
+    <a href="https://twitter.com/KYeasar">
         <img height="75" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg">
     </a>
 </p>
