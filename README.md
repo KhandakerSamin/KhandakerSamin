@@ -5,7 +5,7 @@
 
 <br />
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KhandakerSamin&theme=github-dark&hide_border=true&border_radius=5&card_width=600" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KhandakerSamin&theme=midnight-purple&hide_border=true&border_radius=5&card_width=600" alt="GitHub Streak" /></a>g
 </p>
 
 ## Reach me out
@@ -14,16 +14,16 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mirhussainmurtaza/">
-        <img height="75" style="margin-right: 20px;" src="https://i.postimg.cc/ZqHkMTnZ/do-approved-assets-removebg-preview.png">
+        <img height="50"  src="https://i.postimg.cc/8kj4b3b3/Screenshot-2023-12-09-112337-removebg-preview.png">
     </a>
     <a href="https://www.facebook.com/khandakersaminyeasar">
-        <img height="75" style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
+        <img height="50"   src="https://i.postimg.cc/76YFXkHd/new-facebook.png">
     </a>
     <a href="https://www.instagram.com/hey_its_samin/">
-        <img height="75" style="margin-right: 20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
+        <img height="50" width="150"  src="https://i.postimg.cc/Qx5yQtgV/HD-instagram-logoinstagram-logotipo-png-1.png">
     </a>
     <a href="https://twitter.com/KYeasar">
-        <img height="75" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg">
+        <img height="40" src="https://i.postimg.cc/g2H3dFpg/Screenshot-2023-12-09-114706-removebg-preview.png">
     </a>
 </p>
 
