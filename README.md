@@ -1,11 +1,18 @@
 ![MasterHead](https://i.postimg.cc/CK5V2mrd/Miraj-Github-cover-01.png)
 
+## About Me
+
+Welcome to my GitHub! I am Khandaker Samin Yeasar a passionate Frontend Developer . I good at frontend with react.js , react-router, firebase, tailwindCSS and some of express.js and mongoDB.  My journey in web development has led me to explore exciting technologies, and currently, I am delving into the world of Next.js, TypeScript, Framer Motion, and MIUI.
+
+## Vision
+
+My vision is to create immersive and user-centric web experiences that not only meet but exceed expectations. I am dedicated to pushing the boundaries of what is possible in the digital space by leveraging cutting-edge technologies and frameworks.
 
 ##  Current Stats
 
 <br />
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KhandakerSamin&theme=midnight-purple&hide_border=true&border_radius=5&card_width=600" alt="GitHub Streak" /></a>g
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KhandakerSamin&theme=midnight-purple&hide_border=true&border_radius=5&card_width=600" alt="GitHub Streak" /></a>
 </p>
 
 ## Reach me out
