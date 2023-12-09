@@ -13,7 +13,7 @@
 <br />
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mirhussainmurtaza/">
+    <a href="https://www.linkedin.com/in/khandakersaminyeasar/">
         <img height="50"  src="https://i.postimg.cc/8kj4b3b3/Screenshot-2023-12-09-112337-removebg-preview.png">
     </a>
     <a href="https://www.facebook.com/khandakersaminyeasar">
