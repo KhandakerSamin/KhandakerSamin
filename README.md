@@ -23,7 +23,7 @@
         <img height="50" width="150"  src="https://i.postimg.cc/Qx5yQtgV/HD-instagram-logoinstagram-logotipo-png-1.png">
     </a>
     <a href="https://twitter.com/KYeasar">
-        <img height="40" src="https://i.postimg.cc/g2H3dFpg/Screenshot-2023-12-09-114706-removebg-preview.png">
+        <img height="40" src="https://i.postimg.cc/1zkCN0L4/Screenshot-2023-12-09-161659-removebg-preview.png">
     </a>
 </p>
 
