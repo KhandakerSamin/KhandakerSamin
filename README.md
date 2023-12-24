@@ -10,7 +10,6 @@ My vision is to create immersive and user-centric web experiences that not only 
 
 ##  Current Stats
 
-<<<<<<< HEAD
 <p align="center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KhandakerSamin&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
