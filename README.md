@@ -60,7 +60,7 @@
 <div align="center">
   <!-- Put streak and contribution graph in same row -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KhandakerSamin&theme=radical&border_radius=10" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=KhandakerSamin&theme=redical&bg_color=20232a&hide_border=true" width="45%"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=KhandakerSamin&theme=redical&bg_color=20232a&hide_border=true" width="85%"/>
 </div>
 
 <br/>
