@@ -1,65 +1,49 @@
 <div align="center">
-  <img src="https://i.postimg.cc/CK5V2mrd/Miraj-Github-cover-01.png" alt="Header" width="100%"/>
+  <!-- Replaced duplicated MERN text banner with professional bubble wave animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=&fontSize=0&animation=fadeIn"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Khandaker+Samin+Yeasar!;MERN+Stack+Developer+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Khandaker+Samin+Yeasar!;MERN+Stack+Developer+🚀;Full-Stack+Web+Developer+💻;" />
 </h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KhandakerSamin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/KhandakerSamin?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat&logo=handshake" alt="Open to opportunities" />
 </div>
 
 <br/>
 
-## 🚀 About Me
-
-> **Passionate MERN Stack Developer** crafting digital experiences that matter
-
-I'm a dedicated **Full-Stack Developer** specializing in the **MERN ecosystem** with a passion for creating immersive, user-centric web applications. My journey spans from pixel-perfect frontends to robust backend architectures, always pushing the boundaries of what's possible in the digital space.
-
-\`\`\`javascript
-const samin = {
-    pronouns: "He/Him",
-    location: "Bangladesh 🇧🇩",
-    currentFocus: "Full-Stack MERN Development",
-    learning: ["Next.js", "TypeScript", "Framer Motion", "Material-UI"],
-    askMeAbout: ["React", "Node.js", "MongoDB", "Express", "JavaScript"],
-    funFact: "I debug with console.log and I'm proud of it! 🐛"
-};
-\`\`\`
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=100&duration=4000&lines=const+samin+%3D+%7B;++pronouns%3A+%22He%2FHim%22%2C;++location%3A+%22Bangladesh+🇧🇩%22%2C;++currentFocus%3A+%22Full-Stack+MERN%22%2C;++learning%3A+%5B%22Next.js%22%2C+%22TypeScript%22%2C+%22Python%22%5D;%7D%3B" />
+</div>
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## 🎯 Professional Objective
+
+**Motivated Full-Stack MERN Developer** with strong foundation in web technologies and growing interest in AI/ML. Currently expanding skills in Python and exploring AI integration with web applications. Eager to contribute to research-driven environments and collaborate on impactful projects.
+
+<br/>
+
+## 🚀 Tech Stack & Skills
 
 <div align="center">
 
-### Frontend Mastery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,typescript" />
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+### Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,vercel,netlify" />
 
 ### Currently Learning
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+<img src="https://skillicons.dev/icons?i=python,nextjs" />
+<img src="https://img.shields.io/badge/AI%20Integration-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 
 </div>
 
@@ -68,88 +52,59 @@ const samin = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhandakerSamin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhandakerSamin&layout=compact&langs_count=8&theme=tokyonight"/>
+  <!-- Put stats and languages in same row -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhandakerSamin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhandakerSamin&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KhandakerSamin&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhandakerSamin&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhandakerSamin&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <!-- Minimized contribution graph size -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khandakersaminyeasar&theme=redical&bg_color=20232a&hide_border=true" width="80%"/>
 </div>
 
 <br/>
 
-## 🎯 Current Focus
+## 🎓 Education
 
 <div align="center">
-
-| 🔭 **Working On** | 🌱 **Learning** | 💡 **Exploring** |
-|:---:|:---:|:---:|
-| MERN Stack Projects | Next.js & TypeScript | Microservices Architecture |
-| Full-Stack Applications | Advanced React Patterns | Cloud Technologies |
-| UI/UX Implementation | Backend Optimization | DevOps Practices |
-
+  <img src="https://img.shields.io/badge/B.Sc._Software_Engineering-2024--Present-blue?style=for-the-badge&logo=graduation-cap" />
+  <br/>
+  <strong>Daffodil International University</strong>
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhandakerSamin&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhandakerSamin&repo=your-project-1&theme=tokyonight)](https://github.com/KhandakerSamin/your-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhandakerSamin&repo=your-project-2&theme=tokyonight)](https://github.com/KhandakerSamin/your-project-2)
-
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khandakersaminyeasar/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khandakersaminyeasar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hey_its_samin/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KYeasar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khandakersaminyeasar.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandakersaminyeasar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khandakersaminyeasar.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khandakersaminyeasar)
+<!-- Added Instagram to connect section -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khandakersaminyeasar)
 
 </div>
 
 <br/>
 
-## 💭 Random Dev Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=💼+Open+to+Opportunities!;🚀+MERN+Stack+Projects;💻+Full-Stack+Development;🤝+Let's+Build+Together!" />
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KhandakerSamin/KhandakerSamin/output/snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=3000&lines=Thanks+for+visiting!+✨;Happy+Coding!+🚀;Let's+connect!+🤝" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>💖 Thanks for visiting my profile!</h3>
-  <p>⭐ Star some repositories if you find them interesting!</p>
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-
