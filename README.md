@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- Replaced duplicated MERN text banner with professional bubble wave animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=&fontSize=0&animation=fadeIn"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&fontSize=0&animation=fadeIn"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Khandaker+Samin+Yeasar!;MERN+Stack+Developer+🚀;Full-Stack+Web+Developer+💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;I'm+Khandaker+Samin+Yeasar!;MERN+Stack+Developer+🚀;Full-Stack+Web+Developer+💻;" />
 </h1>
 
 <div align="center">
@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=100&duration=4000&lines=const+samin+%3D+%7B;++pronouns%3A+%22He%2FHim%22%2C;++location%3A+%22Bangladesh+🇧🇩%22%2C;++currentFocus%3A+%22Full-Stack+MERN%22%2C;++learning%3A+%5B%22Next.js%22%2C+%22TypeScript%22%2C+%22Python%22%5D;%7D%3B" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=100&duration=5000&lines=const+samin+%3D+%7B;++pronouns%3A+%22He%2FHim%22%2C;++location%3A+%22Bangladesh+🇧🇩%22%2C;++currentFocus%3A+%22Full-Stack+MERN%22%2C;++learning%3A+%5B%22Next.js%22%2C+%22TypeScript%22%2C+%22Python%22%5D;%7D%3B" />
 </div>
 
 <br/>
@@ -52,18 +52,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Put stats and languages in same row -->
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhandakerSamin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhandakerSamin&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhandakerSamin&theme=radical&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <!-- Minimized contribution graph size -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhandakerSamin&theme=redical&bg_color=20232a&hide_border=true" width="80%"/>
+  <!-- Put streak and contribution graph in same row -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KhandakerSamin&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=KhandakerSamin&theme=redical&bg_color=20232a&hide_border=true" width="45%"/>
 </div>
 
 <br/>
@@ -103,7 +100,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=400&height=50&duration=3000&lines=Thanks+for+visiting!+✨;Happy+Coding!+🚀;Let's+connect!+🤝" />
 </div>
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
