@@ -1,77 +1,155 @@
-![MasterHead](https://i.postimg.cc/CK5V2mrd/Miraj-Github-cover-01.png)
+<div align="center">
+  <img src="https://i.postimg.cc/CK5V2mrd/Miraj-Github-cover-01.png" alt="Header" width="100%"/>
+</div>
 
-## About Me
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Khandaker+Samin+Yeasar!;MERN+Stack+Developer+🚀;" />
+</h1>
 
-Welcome to my GitHub! I am Khandaker Samin Yeasar a passionate Frontend Developer . I good at frontend with react.js , react-router, firebase, tailwindCSS and some of express.js and mongoDB.  My journey in web development has led me to explore exciting technologies, and currently, I am delving into the world of Next.js, TypeScript, Framer Motion, and MIUI.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhandakerSamin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/KhandakerSamin?label=Followers&style=social" alt="GitHub followers" />
+</div>
 
-## Vision
+<br/>
 
-My vision is to create immersive and user-centric web experiences that not only meet but exceed expectations. I am dedicated to pushing the boundaries of what is possible in the digital space by leveraging cutting-edge technologies and frameworks.
+## 🚀 About Me
 
-##  Current Stats
+> **Passionate MERN Stack Developer** crafting digital experiences that matter
 
-<p align="center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KhandakerSamin&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</p>
-<br />
+I'm a dedicated **Full-Stack Developer** specializing in the **MERN ecosystem** with a passion for creating immersive, user-centric web applications. My journey spans from pixel-perfect frontends to robust backend architectures, always pushing the boundaries of what's possible in the digital space.
 
+\`\`\`javascript
+const samin = {
+    pronouns: "He/Him",
+    location: "Bangladesh 🇧🇩",
+    currentFocus: "Full-Stack MERN Development",
+    learning: ["Next.js", "TypeScript", "Framer Motion", "Material-UI"],
+    askMeAbout: ["React", "Node.js", "MongoDB", "Express", "JavaScript"],
+    funFact: "I debug with console.log and I'm proud of it! 🐛"
+};
+\`\`\`
 
-## Reach me out
+<br/>
 
-<br />
+## 🛠️ Tech Arsenal
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/khandakersaminyeasar/">
-        <img height="50"  src="https://i.postimg.cc/8kj4b3b3/Screenshot-2023-12-09-112337-removebg-preview.png">
-    </a>
-    <a href="https://www.facebook.com/khandakersaminyeasar">
-        <img height="50"   src="https://i.postimg.cc/76YFXkHd/new-facebook.png">
-    </a>
-    <a href="https://www.instagram.com/hey_its_samin/">
-        <img height="50" width="150"  src="https://i.postimg.cc/Qx5yQtgV/HD-instagram-logoinstagram-logotipo-png-1.png">
-    </a>
-    <a href="https://twitter.com/KYeasar">
-        <img height="40" src="https://i.postimg.cc/1zkCN0L4/Screenshot-2023-12-09-161659-removebg-preview.png">
-    </a>
-</p>
+<div align="center">
 
+### Frontend Mastery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<br />
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-## Technologies that I know
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br>
-<p align="center">
-     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a>
-    </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img style="margin-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="65" height="65"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="65" height="65"/> </a> </p>
-</p>
-<p align="center">
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img  style="margin-right: 20px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="65" height="65"/> </a> 
-     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> 
-     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"width="65" height="65"/> </a>
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a> 
+### Currently Learning
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-</p>
-<p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="65" height="65"/> </a>
-     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"width="65" height="65"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="margin-right: 20px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="65" height="65"/> </a> 
-</p><br/>
+</div>
 
-<p align="left"> 
+<br/>
 
+## 📊 GitHub Analytics
 
-##  Current overview
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhandakerSamin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhandakerSamin&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on **MERN Stack Web Devolopment**
-- 🌱 I’m currently learning **Backend with Express and MongoDb**
-- 👨‍💻 All of my projects are available at [khandakersaminyeasar.com](khandakersaminyeasar.com)
-- 💬 Ask me about **Html,Css,JS,React...**
-- 📫 How to reach me **khandakersaminyeasar@gmail.com**
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KhandakerSamin&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 
-<br />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhandakerSamin&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🔭 **Working On** | 🌱 **Learning** | 💡 **Exploring** |
+|:---:|:---:|:---:|
+| MERN Stack Projects | Next.js & TypeScript | Microservices Architecture |
+| Full-Stack Applications | Advanced React Patterns | Cloud Technologies |
+| UI/UX Implementation | Backend Optimization | DevOps Practices |
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KhandakerSamin&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhandakerSamin&repo=your-project-1&theme=tokyonight)](https://github.com/KhandakerSamin/your-project-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhandakerSamin&repo=your-project-2&theme=tokyonight)](https://github.com/KhandakerSamin/your-project-2)
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khandakersaminyeasar/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/khandakersaminyeasar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hey_its_samin/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KYeasar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khandakersaminyeasar.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandakersaminyeasar@gmail.com)
+
+</div>
+
+<br/>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KhandakerSamin/KhandakerSamin/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <h3>💖 Thanks for visiting my profile!</h3>
+  <p>⭐ Star some repositories if you find them interesting!</p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
