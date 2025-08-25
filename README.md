@@ -32,7 +32,7 @@
 <div align="center">
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,typescript" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,typescript" />
 
 ### Backend Development  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
