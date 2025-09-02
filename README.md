@@ -23,7 +23,7 @@
 
 ## 🎯 Professional Objective
 
-**Motivated Full-Stack MERN Developer** with strong foundation in web technologies and growing interest in AI/ML. Currently expanding skills in Python and exploring AI integration with web applications. Eager to contribute to research-driven environments and collaborate on impactful projects.
+**Motivated Full-Stack (MERN) Developer** with strong foundation in web technologies and growing interest in AI/ML. Currently expanding skills in Python and exploring AI integration with web applications. Eager to contribute to research-driven environments and collaborate on impactful projects.
 
 <br/>
 
