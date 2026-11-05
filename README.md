@@ -72,61 +72,19 @@ const samin = {
 
 ---
 
-## 🚀 Featured Projects
-
-<!--
-  HOW TO ADD MORE PROJECTS
-  1. Copy one of the <a> blocks below.
-  2. Replace REPO_NAME with the exact name of your GitHub repository.
-  3. Remove the comment markers around it so it shows up.
-  Tip: Pick your 3–4 best, most complete projects (with a live demo + good README).
--->
-
-<div align="center">
-
-<a href="https://github.com/KhandakerSamin/Rapid-Routify-Client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhandakerSamin&repo=Rapid-Routify-Client&theme=tokyonight&hide_border=true&border_radius=10" alt="Rapid Routify" />
-</a>
-
-<!--
-<a href="https://github.com/KhandakerSamin/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhandakerSamin&repo=REPO_NAME&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/KhandakerSamin/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhandakerSamin&repo=REPO_NAME&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/KhandakerSamin/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KhandakerSamin&repo=REPO_NAME&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
--->
-
-</div>
-
-<br/>
-
-| Project | What it does | Tech | Links |
-|:--|:--|:--|:--|
-| **Rapid Routify** | Restaurant management platform — add, update, delete, and order food items with authentication | React, Node.js, Express, MongoDB, Firebase | [Code](https://github.com/KhandakerSamin/Rapid-Routify-Client) |
-| **Project Name** | One line on the problem it solves and its key feature | Tech used | [Live](#) · [Code](#) |
-| **Project Name** | One line on the problem it solves and its key feature | Tech used | [Live](#) · [Code](#) |
-
-<p align="center">👉 See all my work at <a href="https://khandakersaminyeasar.com"><b>khandakersaminyeasar.com</b></a></p>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KhandakerSamin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhandakerSamin&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" alt="Contribution graph" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="Most used languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KhandakerSamin&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhandakerSamin&theme=tokyo-night&hide_border=true&radius=10&area=true" width="95%" alt="Contribution graph" />
 </div>
 
 ---
